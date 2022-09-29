@@ -1,1 +1,9 @@
-Hi, i'm Tifaine 
+Hi, i'm Tifaine. 
+I live with my family in Valais around the city of Sion. 
+I work since nine years for Groupe Mutuel Insurance in the Data&Analytics sector
+I lead a team of Business Analyst that creat value with Data for operations, finances & health. 
+We provide broad services like dashboard, advanced analytics, machine learning.
+I learn several courses online about datascience, especially on coursera and udemy like tensorflow or Azure ml.
+
+With the programm i expect to refresh my knowledges and learn more with news machine learning techniques. I
+will then apply it directly for my daily businness in several projects and for coaching my team.
